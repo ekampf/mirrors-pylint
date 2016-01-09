@@ -1,6 +1,6 @@
 -   id: pylint
     name: pylint
-    entry: source ./bin/activate && pylint
+    entry: pylint
     language: system
     files: \.py$
     args: []
